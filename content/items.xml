@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Herme's Boots" gfx="hermes_boots.png" description="The might and swiftness of Hermes" quality="3" cache="damage firedelay speed" />
+</items>

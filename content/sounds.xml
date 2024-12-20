@@ -1,0 +1,5 @@
+<sounds root="sfx/">
+    <sound name ="Thumbs up">
+        <sample weight="1" path="thumbs up.wav" />
+    </sound>
+</sounds>
